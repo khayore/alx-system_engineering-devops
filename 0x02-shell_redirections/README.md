@@ -1,1 +1,1 @@
- a shell script that creates a file named exactly X ontaining the text Best School ending by a new line
+a script that writes into the file ls_cwd_content
