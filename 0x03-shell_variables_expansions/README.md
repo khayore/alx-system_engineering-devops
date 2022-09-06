@@ -1,1 +1,1 @@
-A script that prints hello user, where user is the current Linux user
+A script that Adds /action to the PATH. /action should be the last directory
